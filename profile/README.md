@@ -1,5 +1,7 @@
 # Tomu
 
+[🇩🇪 Deutsch](README.de.md)
+
 **Shared lists. Without an account.**
 
 Tomu is a shared list by link, for to-dos, household tasks, packing lists, shopping lists and more. Shared lists for family, flatmates and friends: everyone sees changes right away, and nobody else can read along.
