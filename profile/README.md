@@ -15,7 +15,10 @@ Tomu is a shared list by link, for to-dos, household tasks, packing lists, shopp
 
 ## Status
 
-Tomu is in development and has not launched yet. The marketing site at [tomu.foo](https://tomu.foo) explains the idea and lets you sign up for development updates. The app will live at app.tomu.foo.
+Tomu is in development and has launched a beta at [app.tomu.foo](https://app.tomu.foo).  
+The marketing site at [tomu.foo](https://tomu.foo) explains the idea and lets you sign up for development updates.
+
+Native apps are planned, but not started yet.
 
 ## Repositories
 
