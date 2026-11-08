@@ -13,6 +13,10 @@ Tomu is a shared list by link, for to-dos, household tasks, packing lists, shopp
 - **Simple enough for grandma.** Large type, large buttons, few options.
 - **Sharing via labels.** Share a label once, and every list with that label, including future ones, is shared.
 
+## Engage
+
+Visit the [Discussions](https://github.com/orgs/Tomu-App/discussions) and engage in... well.. Discussions...
+
 ## Status
 
 Tomu is in development and has launched a beta at [app.tomu.foo](https://app.tomu.foo).  
