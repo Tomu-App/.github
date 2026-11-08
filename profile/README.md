@@ -1,8 +1,6 @@
-<img src="logo.svg" alt="Tomu logo" width="96">
-
 # Tomu
 
-**Gemeinsame Listen per Link. Ohne Konto.**
+**Shared lists. Without an account.**
 
 Tomu is a shared list by link, for to-dos, household tasks, packing lists, shopping lists and more. Shared lists for family, flatmates and friends: everyone sees changes right away, and nobody else can read along.
 
@@ -12,7 +10,7 @@ Tomu is a shared list by link, for to-dos, household tasks, packing lists, shopp
 - **End-to-end encrypted.** The key lives only in the link. The server stores only ciphertext and cannot read your lists.
 - **No tracking.** No analytics, no tracking pixels.
 - **Real-time sync, works offline.** Changes made offline sync when the connection returns.
-- **Simple enough for Oma.** Large type, large buttons, few options.
+- **Simple enough for grandma.** Large type, large buttons, few options.
 - **Sharing via labels.** Share a label once, and every list with that label, including future ones, is shared.
 
 ## Status
